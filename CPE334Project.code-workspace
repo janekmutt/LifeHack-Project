@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "CPE334Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.terminal.activateEnvironment": true,
+		"python.defaultInterpreterPath": "${workspaceFolder}/../virenvproject/Scripts/python.exe",
+	}
+}
